@@ -1,7 +1,7 @@
 # Anna Loiko
 ### Contacts
 
-**phone**, viber, tlgram: +375 29 111 89 62
+**phone**, viber, telegram: +375 29 147 89 62
 
 **skype** loikoannaromanova
 
@@ -59,15 +59,10 @@ Example of *content's vertical alignment inside a block* is used by me. The `:: 
 ### Experience in JavaScript and React
 
 Exsample | Link |
-
 -------- | ---- |
-
 JavaScript without node.js, LoginForm  (students works) | link
-
 JavaScript/node.js, add notes on page (students works) | link
-
 JavaScript/React, ajax weather widget | link
-
 html/css, website | twintip.su
 
 
@@ -88,4 +83,4 @@ html/css, website | twintip.su
 
 
 ### English level
-A2-B1 ( I attend level B1 course at instituteiba.by )
+**A2-B1 ( I attend level B1 course at [instituteiba.by](https://www.instituteiba.by/) )**
