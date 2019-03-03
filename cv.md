@@ -60,9 +60,9 @@ Example of *content's vertical alignment inside a block* is used by me. The `:: 
 
 Exsample | Link |
 -------- | ---- |
-JavaScript without node.js, LoginForm  (students works) | link
-JavaScript/node.js, add notes on page (students works) | link
-JavaScript/React, ajax weather widget | link
+JavaScript without node.js, LoginForm  (student work) | [link on github repo](https://github.com/AnnaLoiko/login_form)
+JavaScript/node.js, add notes on page (student work) | [link on github repo](https://github.com/AnnaLoiko/test_jokes_notes)
+JavaScript/React, ajax weather widget (student work) | [link on github repo](https://github.com/AnnaLoiko/test_weather_widget)
 html/css, website | twintip.su
 
 
@@ -74,7 +74,7 @@ html/css, website | twintip.su
 
 > Author of a series of geography workbooks for 6-9 forms schoolpupils  -  below preview:
 
-[![N|Solid]()]()
+[![N|Solid](https://annaloiko.github.io/rsschool-2019Q1-cv/preview-1.jpg)](https://annaloiko.github.io/rsschool-2019Q1-cv/preview-1.jpg)
 
 
 > **And then BELHARD, html/css course** 
