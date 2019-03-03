@@ -74,7 +74,7 @@ html/css, website | twintip.su
 
 > Author of a series of geography workbooks for 6-9 forms schoolpupils  -  below preview:
 
-[![N|Solid](https://github.com/AnnaLoiko/rsschool-2019Q1-cv/blob/gh-pages/preview-1.jpg)](https://github.com/AnnaLoiko/rsschool-2019Q1-cv/blob/gh-pages/preview-1.jpg)
+[![N|Solid](https://raw.githubusercontent.com/AnnaLoiko/rsschool-2019Q1-cv/gh-pages/preview-1.jpg)](https://raw.githubusercontent.com/AnnaLoiko/rsschool-2019Q1-cv/gh-pages/preview-1.jpg)
 
 
 > **And then BELHARD, html/css course** 
