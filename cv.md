@@ -1,10 +1,14 @@
 # Anna Loiko
 ### Contacts
+
 **phone**, viber, tlgram: +375 29 111 89 62
+
 **skype** loikoannaromanova
+
 **email** amromany@gmail.com
 
 ### Summary
+
 > I'm looking forward to to continue working with layout, 
 > at a higher level and with using new current technologies, 
 > in a team of passionate front-end-developers.
@@ -21,7 +25,9 @@
 
 
 ### Html/css code example
+
 Example of *content's vertical alignment inside a block* is used by me. The `:: before` element is applied for vertical alignment.
+
 ```html
 <div class="vertical-center"> 
     <p>Vertical block alignment using the :: before element</p> 
@@ -51,23 +57,35 @@ Example of *content's vertical alignment inside a block* is used by me. The `:: 
 ```
 
 ### Experience in JavaScript and React
-| Exsample | Link |
-| ------ | ------ |
-| JavaScript without node.js, LoginForm  (students works) | link |
-| JavaScript/node.js, add notes on page (students works) | link |
-| JavaScript/React, ajax weather widget | link |
-| html/css, website | twintip.su |
+
+Exsample | Link |
+
+-------- | ---- |
+
+JavaScript without node.js, LoginForm  (students works) | link
+
+JavaScript/node.js, add notes on page (students works) | link
+
+JavaScript/React, ajax weather widget | link
+
+html/css, website | twintip.su
 
 
 ### Education
+
 > Belarusian State University
+
 > Master's degree in natural sciences
+
 > Author of a series of geography workbooks for 6-9 forms schoolpupils  -  below preview:
 
 [![N|Solid]()]()
 
+
 > **And then BELHARD, html/css course** 
+
 > **At present time I attend JS/REACT course in [MYFREEDOM school](https://myfreedom.by/courses/web-design/frontend)**
+
 
 ### English level
 A2-B1 ( I attend level B1 course at instituteiba.by )
