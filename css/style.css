@@ -292,7 +292,7 @@ address a:focus {
     left: 48%;
   }
   .skew-box-right {
-    background: url("./img/preview.jpg") no-repeat left center;
+    background: url("../img/preview.jpg") no-repeat left center;
   }
   .skew-box .content-box {
     position: relative;
