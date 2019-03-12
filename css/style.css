@@ -142,10 +142,6 @@ p a:focus {
   right: 0;
   z-index: 2;
   height: 3px;
-  background-image: -webkit-linear-gradient(left,#a1c1ce 0,#a1c1ce 35%,#caa9b4 35%,#caa9b4 65%,#a1c1ce 65%,#a1c1ce 100%);
-  background-image: -moz-linear-gradient(left,#a1c1ce 0,#a1c1ce 35%,#caa9b4 35%,#caa9b4 65%,#a1c1ce 65%,#a1c1ce 100%);
-  background-image: -o-linear-gradient(left,#a1c1ce 0,#a1c1ce 35%,#caa9b4 35%,#caa9b4 65%,#a1c1ce 65%,#a1c1ce 100%);
-  background-image: -webkit-gradient(linear,left top, right top,color-stop(0, #a1c1ce),color-stop(35%, #a1c1ce),color-stop(35%, #caa9b4),color-stop(65%, #caa9b4),color-stop(65%, #a1c1ce),to(#a1c1ce));
   background-image: linear-gradient(to right,#a1c1ce 0,#a1c1ce 35%,#caa9b4 35%,#caa9b4 65%,#a1c1ce 65%,#a1c1ce 100%);
 }
 
