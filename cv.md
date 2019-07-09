@@ -3,7 +3,7 @@
 
 **phone**, viber, telegram: +375 29 147 89 62
 
-**skype** loikoannaromanova
+**skype** annaloikoromanova
 
 **email** amromany@gmail.com
 
