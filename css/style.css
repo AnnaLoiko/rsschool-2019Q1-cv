@@ -12,7 +12,7 @@
 
 body {
   min-width: 320px;
-  
+
   font-size: 18px;
   line-height: 1.5;
   font-family: Arial, san-serif;
@@ -52,8 +52,20 @@ img {
   max-width: 100%;
 }
 
+a {
+  color: #caa9b4;
+  text-decoration: underline;
+}
+
+a:hover,
+a:focus {
+  color: #333333;
+  text-decoration: none;
+}
+
 ul {
   list-style: none;
+  margin-bottom: 30px;
 }
 
 code {
@@ -79,7 +91,7 @@ pre {
 .title-02 {
   padding: 20px 0;
   padding: 15px 0;
-  
+
   font-size: 30px;
   text-align: center;
   text-transform: uppercase;
@@ -360,5 +372,5 @@ footer a:focus {
   .skills ul {
     margin-left: 12px;
     padding-left: 12px;
-  }  
+  }
 }
